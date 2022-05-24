@@ -1,0 +1,34 @@
+{
+  "profile": [
+    {
+      "ulid": 1,
+      "familyname": "john cena",
+      "firstname": "you cant",
+      "middlename": "see me",
+      "region": "NCR",
+      "province": "quezon city",
+      "sex": "male"
+    },
+     {
+      "ulid": 2,
+      "familyname": "anding",
+      "firstname": "martin",
+      "middlename": "lobak",
+      "region": "NCR",
+      "province": "quezon city",
+      "sex": "male"
+    },
+     {
+      "ulid": 3,
+      "familyname": "sinson",
+      "firstname": "james",
+      "middlename": "garcia",
+      "region": "NCR",
+      "province": "quezon city",
+      "sex": "male"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
