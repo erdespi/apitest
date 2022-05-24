@@ -1,7 +1,7 @@
 {
   "profile": [
     {
-      "ulid": 1,
+      "id": 1,
       "familyname": "john cena",
       "firstname": "you cant",
       "middlename": "see me",
@@ -10,7 +10,7 @@
       "sex": "male"
     },
      {
-      "ulid": 2,
+      "id": 2,
       "familyname": "anding",
       "firstname": "martin",
       "middlename": "lobak",
@@ -19,7 +19,7 @@
       "sex": "male"
     },
      {
-      "ulid": 3,
+      "id": 3,
       "familyname": "sinson",
       "firstname": "james",
       "middlename": "garcia",
